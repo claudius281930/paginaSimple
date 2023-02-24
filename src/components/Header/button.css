@@ -1,0 +1,42 @@
+/* :root {
+  --clr: #953;
+  --clr1: #000;
+  --clr2: #222;
+  --clr3: #0f0;
+  --clr4: #fff;
+  --clr5: #333;
+  --clr6: #aaa;
+  --clr7: #111;
+  --clr8: #181818;
+  --clr9: #e94;
+  --clr10: #ff66c4;
+}
+.dropdown-menu {
+  position: relative;
+}
+.menu-button {
+  margin-right: 20px;
+  border: none;
+  background: linear-gradient(to top, #ff66c4, #111);
+  cursor: pointer;
+}
+.dropdown-menu ul {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  margin-top: 5px;
+  padding: 0;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+  list-style: none;
+  z-index: 999;
+}
+.dropdown-menu ul li {
+  padding: 8px;
+  cursor: pointer;
+}
+.dropdown-menu ul li:hover {
+  background-color: #f5f5f5;
+} */

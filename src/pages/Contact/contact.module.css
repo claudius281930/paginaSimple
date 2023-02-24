@@ -1,0 +1,18 @@
+
+:root {
+  --clr: #953;
+  --clr1: #000;
+  --clr2: #222;
+  --clr3: #0f0;
+  --clr4: #fff;
+  --clr5: #333;
+  --clr6: #aaa;
+  --clr7: #111;
+  --clr8: #181818;
+  --clr9: #e94;
+  --clr10: #ff66c4;
+}
+
+.contactContainer {
+ background: var(--clr4);
+}
