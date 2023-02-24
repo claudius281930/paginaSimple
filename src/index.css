@@ -5,19 +5,6 @@
   box-sizing: border-box;
   font-family: "Quicksand", sans-serif;
 }
-:root {
-  --clr: #953;
-  --clr2: #222;
-  --clr3: #fff;
-  --clr4: #333;
-  --clr5: #aaa;
-  --clr6: #181818;
-  --clr7: #ff66c4;
-  --clr8: #111;
-  --clr9: #181818;
-  --clr10: #222;
-  --clr11: #000;
-}
 body {
   width: 100vw;
   height: 100vh;
