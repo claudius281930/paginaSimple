@@ -20,10 +20,13 @@ function RoutesApp() {
             <Header />
             <Routes>
                 <Route path='/' element={<Home />} />
-                {<Route path='/supercilios' element={<SuperCilios />} /> }
-                {<Route path='/portifolio' element={<Portifolio />} /> }
-                {<Route path='/contato' element={<Contact />} /> }
+                <Route path='/supercilios' element={<SuperCilios />} /> 
+                <Route path='/portifolio' element={<Portifolio />} /> 
+                <Route path='/contato' element={<Contact />} /> 
                 <Route path='*' element={<Error />} />
+                <Route path='/instagram' element={<Contact />} />
+                <Route path='/facebook' element={<Contact />} />
+                <Route path='/whatsapp' element={<Contact />} />
             </Routes>
             <Footer />
 
