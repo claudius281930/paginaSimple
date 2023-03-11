@@ -1,25 +1,8 @@
-/* :root {
-  --clr: #953;
-  --clr1: #000;
-  --clr2: #222;
-  --clr3: #0f0;
-  --clr4: #fff;
-  --clr5: #333;
-  --clr6: #aaa;
-  --clr7: #111;
-  --clr8: #181818;
-  --clr9: #e94;
-  --clr10: #ff66c4;
-} */
-
-/* @MEDIA */
-
-
 /*Pequenas telas: até 600px.*/
 @media screen and (min-width: 12.5em), (orientation: landscape) {
   .containerFooter {
     width: 100vw;
-    height: 5vh;
+    height: 6vh;
     position: absolute;
     bottom: 0px;
     background: linear-gradient(to bottom, #ff66c4, #181818);
@@ -29,6 +12,7 @@
     height: 100%;
     display: flex;
     justify-content: space-around;
+    flex-wrap: wrap;
     align-items: center;
     list-style: none;
   }
