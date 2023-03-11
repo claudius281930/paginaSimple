@@ -12,7 +12,12 @@
   --clr9: #e94;
   --clr10: #ff66c4;
 }
-
-.contactContainer {
- background: var(--clr4);
+.contatoContainer {
+  position: relative;
+  top: 6em;
+  display: flex;
+  justify-content: center;
+}
+.contatoInf {
+  background: var(--clr4);
 }
