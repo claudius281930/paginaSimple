@@ -5,14 +5,9 @@ import styles from './contact.module.css'
 
 function Contact() {
     return (
-        <Fragment>
-
-            <span className={styles.contactContainer}>
-                Sou a pagina Contato
-            </span>
-
-
-        </Fragment>
+        <div className={styles.contatoContainer}>
+            <span className={styles.contatoInf}>Sou a pagina Contato</span>
+        </div>
     )
 }
 export default Contact;
