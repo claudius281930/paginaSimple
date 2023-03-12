@@ -12,6 +12,14 @@
   --clr9: #e94;
   --clr10: #ff66c4;
 }
-.superciliosContainer{
+.contentSupercilio {
+  position: relative;
+  top: 6em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.superciliosInfo {
   background: var(--clr4);
 }
