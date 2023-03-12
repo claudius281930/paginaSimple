@@ -12,6 +12,13 @@
   --clr9: #e94;
   --clr10: #ff66c4;
 }
-.portifolioContainer{
+.containerPortifolio {
+  position: relative;
+  top: 6em;
+  left: 0;
+  display: flex;
+  justify-content: center;
+}
+.portifolioInf {
   background: var(--clr4);
 }
