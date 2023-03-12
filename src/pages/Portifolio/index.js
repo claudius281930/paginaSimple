@@ -3,11 +3,8 @@ import styles from "./portifolio.module.css";
 
 function Portifolio() {
     return (
-        <Fragment>
-            <span className={styles.portifolioContainer}>
-                Sou a pagina Portifólio
-                </span>
-        </Fragment>
+       <div className={styles.containerPortifolio}><span className={styles.portifolioInf}>Sou a pagina Portifólio</span>
+        </div>
     )
 }
 export default Portifolio;
