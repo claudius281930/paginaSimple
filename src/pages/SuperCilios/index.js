@@ -3,13 +3,8 @@ import styles from "./supercilios.module.css";
 
 function SuperCilios() {
     return (
-        <Fragment>
-           
-                <span className={styles.superciliosContainer}>
-                    Sou a pagina SuperCilios
-                    </span>
-            
-        </Fragment>
+        <div className={styles.contentSupercilio}><span className={styles.superciliosInfo}>Sou a pagina SuperCilios</span>
+        </div>
     )
 }
 export default SuperCilios;
