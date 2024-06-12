@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/paginaSimple/static/css/main.a2801b70.css",
+    "main.js": "/paginaSimple/static/js/main.c4d6a7eb.js",
+    "index.html": "/paginaSimple/index.html",
+    "main.a2801b70.css.map": "/paginaSimple/static/css/main.a2801b70.css.map",
+    "main.c4d6a7eb.js.map": "/paginaSimple/static/js/main.c4d6a7eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2801b70.css",
+    "static/js/main.c4d6a7eb.js"
+  ]
+}
